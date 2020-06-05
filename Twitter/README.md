@@ -8,9 +8,7 @@ Este script raspa tweets sem limitação de api.
 Para usar o script basta fazer download do arquivo ``` search_historical_tweets.R ``` e abri-lo dentro do RStudio/R.
 Bibliotecas necessárias no R: reticulate, jsonlite, dplyr e plyr.
 
-Bibliotecas necessárias no Python3: twint, pandas e nest_asyncio.
-
-Para instalar as bibliotecas do python: https://nealcaren.org/lessons/twint/
+Bibliotecas necessárias no Python3: twint, pandas e nest_asyncio. Para instalar as bibliotecas do python: https://nealcaren.org/lessons/twint/
 
 #### Realizando a busca
 Basta inserir o terno de busca e o número de tweets que quer ou período . EX:
