@@ -4,7 +4,10 @@
 
 Oi pessoal, se você está aqui provavelmente veio através do workshop da Abraji, sejam bem-vindos e não reparem a bagunça.
 
-Coloquei aqui o código usado na extração dos dados utilizados pela Géssika Costa em sua análise, juntamente a esse código também estou disponibilizando algumas referências:
+Coloquei aqui o código usado na extração dos dados utilizados pela Géssika Costa em sua análise, juntamente a esse código também estou disponibilizando algumas referências.
+
+Alias, o roteiro do workshop, da parte apresentada pela Géssika, pode ser acessado neste link: 
+https://docs.google.com/document/d/1FHSbcg9aeHMmnt1cNp7ZcGO8JXM-74TjVf8RvOt5mXY/edit
 
 Para quem deseja buscar dados históricos sem acesso a API, a Judite Cypreste fez esse tutorial, chamado "O tutorial mais fácil do mundo para baixar tweets".
 
